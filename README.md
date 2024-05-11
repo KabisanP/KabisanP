@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabisanp" alt="kabisanp" /></a> </p>
 
-- 🔭 I’m currently working on **Hawks - Productivity Bot**
+- 🔭 I’m currently working on **Building Bots using Selenium!!**
 
 - 🌱 I’m currently learning **Next.js and C#**
 
