@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Building Bots using Selenium!!**
 
-- 🌱 I’m currently learning **Next.js and C#**
+- 🌱 I’m currently learning **Next.js, Selenium and C#**
 
 - 🤝 I’m looking for help with **upcoming hackathons**
 
